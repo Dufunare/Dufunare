@@ -6,6 +6,8 @@ and software that solves interesting problems.
 I'm interested in software architecture, systems
 programming, and AI-assisted development.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dufunare&show_icons=true&theme=github_dark)
+
 ## Selected Projects
 
 ### TMsgPicker
