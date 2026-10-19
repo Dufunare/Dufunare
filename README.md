@@ -1,2 +1,2 @@
-# Dufuanre
+# Dufunare
 My personal profile
